@@ -1,0 +1,20 @@
+{
+  "name": "stencil-library-playroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "playroom:start": "playroom start",
+    "playroom:build": "playroom build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playroom": "^0.37.0",
+    "style-loader": "^3.3.4"
+  },
+  "dependencies": {
+    "react-library": "*"
+  }
+}
