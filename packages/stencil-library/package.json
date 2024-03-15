@@ -26,7 +26,7 @@
     "generate": "stencil generate"
   },
   "dependencies": {
-    "@stencil/core": "^4.12.6",
+    "@stencil/core": "4.12.6-dev.1710356530.5aa886e",
     "bootstrap": "^5.3.3"
   },
   "devDependencies": {
